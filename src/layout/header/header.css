@@ -1,0 +1,6 @@
+.main__header{
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+}

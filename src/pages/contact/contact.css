@@ -1,0 +1,13 @@
+.box{
+  display: grid;
+  gap: 10px;
+  grid-template-columns: 1fr 4fr;
+}
+.box__menu{
+  border: 2px solid green;
+  height: 75vh;
+}
+.box__content{
+  border: 2px solid red;
+  height: 75vh;
+}
